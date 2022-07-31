@@ -1,0 +1,8 @@
+Sphinx
+sphinx-copybutton
+sphinx_design
+sphinx-immaterial==0.8.1
+sphinxcontrib-bibtex
+sphinxcontrib-napoleon
+sphinxcontrib-httpdomain
+sphinxcontrib-exceltable
