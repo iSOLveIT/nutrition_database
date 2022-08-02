@@ -1,0 +1,14 @@
+
+.. _future-linked-data:
+
+===========
+Linked Data
+===========
+
+.. contents::
+    :local:
+    :depth: 1
+
+Summary
+-------
+

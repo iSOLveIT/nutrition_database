@@ -1,4 +1,4 @@
-Sphinx
+Sphinx==4.4.0
 sphinx-copybutton
 sphinx_design
 sphinx-immaterial==0.8.1

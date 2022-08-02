@@ -1,0 +1,14 @@
+
+.. _future-sparql-reasoning:
+
+====================
+SPARQL and Reasoning
+====================
+
+.. contents::
+    :local:
+    :depth: 1
+
+Summary
+-------
+
