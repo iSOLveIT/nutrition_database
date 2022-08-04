@@ -7,13 +7,6 @@ Dietary Data Reference
 
 Intro text here
 
-Table of Contents
------------------
-
-.. contents::
-   :depth: 2
-   :local:
-
 --------------
 Food Additives
 --------------

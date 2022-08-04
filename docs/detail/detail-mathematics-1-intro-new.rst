@@ -7,13 +7,6 @@ Guidelines for Converting Units, Denominators and Expressions
 
 Intro text here
 
-Table of Contents
------------------
-
-.. contents::
-   :depth: 1
-   :local:
-
 ----------
 Background
 ----------

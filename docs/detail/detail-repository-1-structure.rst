@@ -7,12 +7,6 @@ Repository Structure
 
 Intro text here
 
-Table of Contents
------------------
-
-.. contents::
-   :depth: 1
-   :local:
 
 -----------------
 Repository Design

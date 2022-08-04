@@ -7,12 +7,6 @@ Repository Data - Glucosinolates
 
 Intro text here
 
-Table of Contents
------------------
-
-.. contents::
-   :depth: 1
-   :local:
 
 ---------------------------
 Articles with research data

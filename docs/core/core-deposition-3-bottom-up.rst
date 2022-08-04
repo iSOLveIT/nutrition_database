@@ -5,13 +5,6 @@
 OnLine Bottom Up Deposition
 ===========================
 
-Table of Contents
------------------
-
-.. contents::
-   :depth: 3
-   :local:
-
 -------
 Process
 -------

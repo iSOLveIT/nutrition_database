@@ -11,12 +11,6 @@ This section addresses:
 
 .. rst:role:: Ontomatica defined objective
 
-Table of Contents
------------------
-
-.. contents::
-   :depth: 2
-   :local:
 
 --------
 OnTarget

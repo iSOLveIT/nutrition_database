@@ -5,13 +5,6 @@
 Enzymes in Food
 ===============
 
-Table of Contents
------------------
-
-.. contents::
-   :depth: 2
-   :local:
-
 -------------------------------
 Enzyme Classes and Enzyme Types
 -------------------------------

@@ -17,13 +17,6 @@ This section addresses:
 
    Provide links to other nutrition-related databases.
 
-Table of Contents
------------------
-
-.. contents::
-   :depth: 3
-   :local:
-
 -------------------
 Ontomatica Coverage
 -------------------

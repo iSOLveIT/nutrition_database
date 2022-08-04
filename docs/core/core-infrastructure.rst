@@ -21,13 +21,6 @@ This section addresses:
 
    Allow for tracking of the use of the database (e.g., frequency of record/field selection for viewing or export).
 
-Table of Contents
------------------
-
-.. contents::
-   :depth: 2
-   :local:
-
 --------------
 Infrastructure
 --------------

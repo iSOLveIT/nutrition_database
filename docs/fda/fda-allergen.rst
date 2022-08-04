@@ -14,12 +14,6 @@ Ontomatica Coverage
 
 Ontomatica :ref:`label classes <terms-Label-Class>` |_| integrate allergen data as specified by FDA, including coverage of all specifications below.
 
-Table of Contents
------------------
-
-.. contents::
-   :depth: 2
-   :local:
 
 ---------------------------------------------
 FDA Specifications for Food Allergen Labeling

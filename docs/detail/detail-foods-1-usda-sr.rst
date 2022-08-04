@@ -7,13 +7,6 @@ USDA Standard Reference (SR)
 
 Intro text here
 
-Table of Contents
------------------
-
-.. contents::
-   :depth: 2
-   :local:
-
 ---------
 Baby food
 ---------

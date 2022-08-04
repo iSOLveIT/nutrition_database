@@ -5,13 +5,6 @@
 Nutrients from ChEFS and ChEMATIC
 =================================
 
-Table of Contents
------------------
-
-.. contents::
-   :depth: 2
-   :local:
-
 -----------------------------
 Lipid Classes and Lipid Types
 -----------------------------
