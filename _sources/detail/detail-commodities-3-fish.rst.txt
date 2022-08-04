@@ -7,13 +7,6 @@ Fish
 
 Intro text here; fishing zones
 
-Table of Contents
------------------
-
-.. contents::
-   :depth: 2
-   :local:
-
 -------------
 Fish Taxonomy
 -------------

@@ -7,12 +7,6 @@ Repository References
 
 Intro text here
 
-Table of Contents
------------------
-
-.. contents::
-   :depth: 1
-   :local:
 
 ------------------------
 Scope: Reference Library

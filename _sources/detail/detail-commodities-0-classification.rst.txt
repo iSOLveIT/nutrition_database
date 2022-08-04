@@ -7,13 +7,6 @@ Food Commodity Classification
 
 Intro text here
 
-Table of Contents
------------------
-
-.. contents::
-   :depth: 1
-   :local:
-
 ------------
 UN FAO CODEX
 ------------

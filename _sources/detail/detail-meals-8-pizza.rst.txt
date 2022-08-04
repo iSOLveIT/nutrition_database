@@ -7,12 +7,6 @@ Pizza
 
 Intro text here
 
-Table of Contents
------------------
-
-.. contents::
-   :depth: 1
-   :local:
 
 -------------------------
 Pizza with 52 ingredients

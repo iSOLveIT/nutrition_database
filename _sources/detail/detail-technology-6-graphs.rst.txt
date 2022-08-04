@@ -7,12 +7,6 @@ Directed Acyclic Graph (DAG)
 
 See examples of the following `directed acyclic graphs <http://en.wikipedia.org/wiki/Directed_acyclic_graph>`_
 
-Table of Contents
------------------
-
-.. contents::
-   :depth: 1
-   :local:
 
 ------------------
 Graph - Tryptophan

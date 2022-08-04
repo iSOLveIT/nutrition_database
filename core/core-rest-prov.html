@@ -514,14 +514,6 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#table-of-contents" class="md-nav__link">
-    <span class="md-ellipsis">Table of Contents</span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Table of Contents">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
   <a href="#general-structure-of-rest-api" class="md-nav__link">
     <span title="general structure of rest api (reference label)" class="md-ellipsis">General Structure of REST API</span>
   </a>
@@ -609,16 +601,11 @@
     </nav>
   
 </li>
-        
-          <li class="md-nav__item">
+      
+        <li class="md-nav__item">
   <a href="#quality-control-using-provenance-ontology-and-rest" class="md-nav__link">
     <span title="quality control using provenance ontology and rest (reference label)" class="md-ellipsis">Quality Control using Provenance Ontology and REST</span>
   </a>
-  
-</li>
-        
-      </ul>
-    </nav>
   
 </li>
       
@@ -934,14 +921,6 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#table-of-contents" class="md-nav__link">
-    <span class="md-ellipsis">Table of Contents</span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Table of Contents">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
   <a href="#general-structure-of-rest-api" class="md-nav__link">
     <span title="general structure of rest api (reference label)" class="md-ellipsis">General Structure of REST API</span>
   </a>
@@ -1029,16 +1008,11 @@
     </nav>
   
 </li>
-        
-          <li class="md-nav__item">
+      
+        <li class="md-nav__item">
   <a href="#quality-control-using-provenance-ontology-and-rest" class="md-nav__link">
     <span title="quality control using provenance ontology and rest (reference label)" class="md-ellipsis">Quality Control using Provenance Ontology and REST</span>
   </a>
-  
-</li>
-        
-      </ul>
-    </nav>
   
 </li>
       
@@ -1079,32 +1053,11 @@
 <dd><p>Permit export of ad hoc data.</p>
 </dd></dl>
 
-<h2 id="table-of-contents">Table of Contents<a class="headerlink" href="#table-of-contents" title="Permalink to this headline">¶</a></h2>
-<div class="contents local topic" id="contents">
-<ul class="simple">
-<li><p><a class="reference internal" href="#general-structure-of-rest-api" id="id1">General Structure of REST API</a></p>
-<ul>
-<li><p><a class="reference internal" href="#query-parameters-input-specification" id="id2">Query Parameters: Input Specification</a></p></li>
-<li><p><a class="reference internal" href="#query-parameters-operation-specification" id="id3">Query Parameters: Operation Specification</a></p></li>
-<li><p><a class="reference internal" href="#query-parameters-output-specification" id="id4">Query Parameters: Output Specification</a></p></li>
-<li><p><a class="reference internal" href="#request-food-property-tables" id="id5">Request: Food property tables</a></p>
-<ul>
-<li><p><a class="reference internal" href="#return-food-property-table" id="id6">Return food property table</a></p></li>
-<li><p><a class="reference internal" href="#variation-return-nutrient-fact-panel-nfp-type" id="id7">Variation: Return Nutrient Fact Panel &lt;NFP_type&gt;</a></p></li>
-<li><p><a class="reference internal" href="#variation-return-dates" id="id8">Variation: Return dates</a></p></li>
-<li><p><a class="reference internal" href="#variation-return-cross-references-xrefs" id="id9">Variation: Return Cross References &lt;xrefs&gt;</a></p></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><p><a class="reference internal" href="#quality-control-using-provenance-ontology-and-rest" id="id10">Quality Control using Provenance Ontology and REST</a></p></li>
-</ul>
-</div>
 <p><a class="reference internal" href="../terms-project/terms-project.html#terms-label-project"><span class="std std-ref">Label project</span></a>  data will be available to <a class="reference internal" href="../terms-project/terms-project.html#terms-investigator"><span class="std std-ref">investigators</span></a>  via <a class="reference internal" href="../terms-project/terms-project.html#terms-rest"><span class="std std-ref">REST</span></a>  (Representational State Transfer) services. REST is a simple stateless architecture that runs over HTTP. REST service reads a designated Web page that contains an XML file in RDF format. XML/RDF file describes and includes label project data. Data is returned to investigator in <a class="reference internal" href="../terms-project/terms-project.html#terms-json-ld"><span class="std std-ref">JSON-LD</span></a>  format.</p>
 <figure class="align-center">
 <img alt="../_images/core-rest-prov_.png" src="../_images/core-rest-prov_.png" />
 </figure>
-<h3 id="general-structure-of-rest-api"><a class="toc-backref" href="#id1">General Structure of REST API</a><a class="headerlink" href="#general-structure-of-rest-api" title="Permalink to this headline">¶</a></h3>
+<h2 id="general-structure-of-rest-api">General Structure of REST API<a class="headerlink" href="#general-structure-of-rest-api" title="Permalink to this headline">¶</a></h2>
 <p>Structure of a USDA REST <a class="reference internal" href="../terms-project/terms-project.html#terms-conversation"><span class="std std-ref">conversation</span></a>  :</p>
 <dl class="http get objdesc">
 <dt class="sig sig-object highlight sig-wrap http" id="get--input specification-operation specification-output specification-operation_options">
@@ -1119,7 +1072,7 @@
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span><code><span class="n">http</span><span class="p">:</span><span class="o">//</span><span class="n">usda</span><span class="o">.</span><span class="n">ars</span><span class="o">.</span><span class="n">gov</span><span class="o">/</span><span class="n">rest</span><span class="o">/</span><span class="n">food</span><span class="o">/</span><span class="n">USDA_fid</span><span class="o">/</span><span class="mi">2244</span><span class="o">/</span><span class="n">JSON</span>
 </code></pre></div>
 </div>
-<h4 id="query-parameters-input-specification"><a class="toc-backref" href="#id2">Query Parameters: Input Specification</a><a class="headerlink" href="#query-parameters-input-specification" title="Permalink to this headline">¶</a></h4>
+<h3 id="query-parameters-input-specification">Query Parameters: Input Specification<a class="headerlink" href="#query-parameters-input-specification" title="Permalink to this headline">¶</a></h3>
 <p>Input portion of URL tells service which records to use as subject of query.</p>
 <p>This is further subdivided into two or more locations in URL “path” as follows:</p>
 <dl class="field-list simple">
@@ -1159,7 +1112,7 @@
 <span class="mi">3</span>    <span class="o">&lt;</span><span class="n">identifiers</span><span class="o">&gt;</span> <span class="o">=</span> <span class="n">comma</span><span class="o">-</span><span class="n">separated</span> <span class="nb">list</span> <span class="n">of</span> <span class="n">positive</span> <span class="n">integers</span> <span class="p">(</span><span class="n">e</span><span class="o">.</span><span class="n">g</span><span class="o">.</span> <span class="n">PC_cid</span><span class="p">,</span> <span class="n">USDA_fid</span><span class="p">,</span> <span class="n">NFP_id</span><span class="p">)</span> <span class="ow">or</span> <span class="n">identifier</span> <span class="n">strings</span> <span class="p">(</span><span class="n">source</span><span class="p">,</span> <span class="n">inchikey</span><span class="p">)</span>
 </code></pre></div>
 </div>
-<h4 id="query-parameters-operation-specification"><a class="toc-backref" href="#id3">Query Parameters: Operation Specification</a><a class="headerlink" href="#query-parameters-operation-specification" title="Permalink to this headline">¶</a></h4>
+<h3 id="query-parameters-operation-specification">Query Parameters: Operation Specification<a class="headerlink" href="#query-parameters-operation-specification" title="Permalink to this headline">¶</a></h3>
 <p>Operation part of URL tells service what to do with input records - such as to retrieve whole record or specific properties of a food.</p>
 <p>Construction of this part of “path” will depend on Operation Specification. If no operation is specified, default is to retrieve entire record.</p>
 <p>Available operations dependent on Input Specification. For example, certain operations are applicable only to foods, compounds and not <code class="xref py py-class docutils literal notranslate"><span class="pre">NFP_values</span></code>.</p>
@@ -1174,14 +1127,14 @@
 <span class="mf">1.3</span>  <span class="n">NFP</span> <span class="n">domain</span> <span class="o">&lt;</span><span class="n">operation_specification</span><span class="o">&gt;</span> <span class="o">=</span> <span class="n">record</span> <span class="o">|</span> <span class="n">NFP_ids</span> <span class="o">|</span> <span class="n">USDA_fids</span> <span class="o">|</span> <span class="n">PC_cids</span> <span class="o">|</span> <span class="n">description</span> <span class="o">|</span> <span class="n">summary</span> <span class="o">|</span> <span class="n">classification</span> <span class="o">|</span> <span class="n">xrefs</span>
 </code></pre></div>
 </div>
-<h4 id="query-parameters-output-specification"><a class="toc-backref" href="#id4">Query Parameters: Output Specification</a><a class="headerlink" href="#query-parameters-output-specification" title="Permalink to this headline">¶</a></h4>
+<h3 id="query-parameters-output-specification">Query Parameters: Output Specification<a class="headerlink" href="#query-parameters-output-specification" title="Permalink to this headline">¶</a></h3>
 <p>Final portion of URL tells service what output format is desired.</p>
 <p>Output format also can be specified in HTTP Accept field of request header.</p>
 <p>For example:</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span><code><span class="o">&lt;</span><span class="n">output</span><span class="p">:</span><span class="n">specification</span><span class="o">&gt;</span> <span class="o">=</span> <span class="n">JSON</span> <span class="o">|</span> <span class="n">CSV</span> <span class="o">|</span> <span class="n">TXT</span>
 </code></pre></div>
 </div>
-<h4 id="request-food-property-tables"><a class="toc-backref" href="#id5">Request: Food property tables</a><a class="headerlink" href="#request-food-property-tables" title="Permalink to this headline">¶</a></h4>
+<h3 id="request-food-property-tables">Request: Food property tables<a class="headerlink" href="#request-food-property-tables" title="Permalink to this headline">¶</a></h3>
 <dl class="http get objdesc">
 <dt class="sig sig-object highlight http" id="get--input specification">
 <span class="sig-name descname"><span class="pre">GET</span> </span><span class="sig-name descname"><span class="pre">/input</span> <span class="pre">specification</span></span><a class="headerlink" href="#get--input specification" title="Permalink to this definition">¶</a></dt>
@@ -1191,7 +1144,7 @@
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span><code><span class="n">http</span><span class="p">:</span><span class="o">//</span><span class="n">usda</span><span class="o">.</span><span class="n">ars</span><span class="o">.</span><span class="n">gov</span><span class="o">/</span><span class="n">rest</span><span class="o">/</span><span class="n">food</span><span class="o">/</span><span class="n">USDA_fid</span><span class="o">/</span><span class="mi">3114</span><span class="o">/</span><span class="nb">property</span><span class="o">/</span><span class="n">JSON</span>
 </code></pre></div>
 </div>
-<h5 id="return-food-property-table"><a class="toc-backref" href="#id6">Return food property table</a><a class="headerlink" href="#return-food-property-table" title="Permalink to this headline">¶</a></h5>
+<h4 id="return-food-property-table">Return food property table<a class="headerlink" href="#return-food-property-table" title="Permalink to this headline">¶</a></h4>
 <table class="colwidths-given docutils data align-default">
 <colgroup>
 <col style="width: 50%" />
@@ -1211,7 +1164,7 @@
 </tr>
 </tbody>
 </table>
-<h5 id="variation-return-nutrient-fact-panel-nfp-type"><a class="toc-backref" href="#id7">Variation: Return Nutrient Fact Panel &lt;NFP_type&gt;</a><a class="headerlink" href="#variation-return-nutrient-fact-panel-nfp-type" title="Permalink to this headline">¶</a></h5>
+<h4 id="variation-return-nutrient-fact-panel-nfp-type">Variation: Return Nutrient Fact Panel &lt;NFP_type&gt;<a class="headerlink" href="#variation-return-nutrient-fact-panel-nfp-type" title="Permalink to this headline">¶</a></h4>
 <table class="colwidths-given docutils data align-default">
 <colgroup>
 <col style="width: 33%" />
@@ -1231,7 +1184,7 @@
 </tr>
 </tbody>
 </table>
-<h5 id="variation-return-dates"><a class="toc-backref" href="#id8">Variation: Return dates</a><a class="headerlink" href="#variation-return-dates" title="Permalink to this headline">¶</a></h5>
+<h4 id="variation-return-dates">Variation: Return dates<a class="headerlink" href="#variation-return-dates" title="Permalink to this headline">¶</a></h4>
 <table class="colwidths-given docutils data align-default">
 <colgroup>
 <col style="width: 50%" />
@@ -1260,7 +1213,7 @@
 </tr>
 </tbody>
 </table>
-<h5 id="variation-return-cross-references-xrefs"><a class="toc-backref" href="#id9">Variation: Return Cross References &lt;xrefs&gt;</a><a class="headerlink" href="#variation-return-cross-references-xrefs" title="Permalink to this headline">¶</a></h5>
+<h4 id="variation-return-cross-references-xrefs">Variation: Return Cross References &lt;xrefs&gt;<a class="headerlink" href="#variation-return-cross-references-xrefs" title="Permalink to this headline">¶</a></h4>
 <table class="colwidths-given docutils data align-default">
 <colgroup>
 <col style="width: 50%" />
@@ -1292,7 +1245,7 @@
 </tr>
 </tbody>
 </table>
-<h3 id="quality-control-using-provenance-ontology-and-rest"><a class="toc-backref" href="#id10">Quality Control using Provenance Ontology and REST</a><a class="headerlink" href="#quality-control-using-provenance-ontology-and-rest" title="Permalink to this headline">¶</a></h3>
+<h2 id="quality-control-using-provenance-ontology-and-rest">Quality Control using Provenance Ontology and REST<a class="headerlink" href="#quality-control-using-provenance-ontology-and-rest" title="Permalink to this headline">¶</a></h2>
 <p>Several <a class="reference internal" href="../terms-project/terms-project.html#terms-conversation"><span class="std std-ref">conversation</span></a>  types will be supported.</p>
 <p>For example, Ontomatica <a class="reference internal" href="../terms-project/terms-project.html#terms-ontology"><span class="std std-ref">imports</span></a>  the Provenance Ontology <code class="xref py py-class docutils literal notranslate"><span class="pre">[prov]</span></code>.</p>
 <p>The following illustrates a <a class="reference internal" href="../terms-project/terms-project.html#terms-curator"><span class="std std-ref">curator</span></a>  using <code class="xref py py-class docutils literal notranslate"><span class="pre">[prov]</span></code>:</p>

@@ -7,13 +7,6 @@ Bioactive Chemicals
 
 Intro text here
 
-Table of Contents
------------------
-
-.. contents::
-   :depth: 2
-   :local:
-
 ------------------
 Hydrolase Activity
 ------------------

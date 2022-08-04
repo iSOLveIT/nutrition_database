@@ -7,13 +7,6 @@ Livestock
 
 Intro text here
 
-Table of Contents
------------------
-
-.. contents::
-   :depth: 2
-   :local:
-
 -----------
 Meat Groups
 -----------

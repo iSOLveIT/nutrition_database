@@ -13,12 +13,6 @@ This section addresses:
 
    User-friendly design for rapid deposition, manipulation, and retrieval of data with capability of specific queries.
 
-Table of Contents
------------------
-
-.. contents::
-   :depth: 3
-   :local:
 
 --------------------
 Ontomatica Navigator

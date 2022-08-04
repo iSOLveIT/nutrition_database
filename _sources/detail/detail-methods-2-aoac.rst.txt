@@ -7,12 +7,6 @@ AOAC Analytical Methods
 
 Intro text here.
 
-Table of contents
------------------
-
-.. contents::
-   :depth: 1
-   :local:
 
 --------------------
 Amino Acids Analysis

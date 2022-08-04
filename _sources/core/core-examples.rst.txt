@@ -6,14 +6,6 @@ Examples: Production Applications
 =================================
 
 
-
-Table of Contents
------------------
-
-.. contents::
-   :depth: 1
-   :local:
-
 ---------
 Chemicals
 ---------

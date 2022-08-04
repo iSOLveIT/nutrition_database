@@ -5,12 +5,6 @@
 Provenance Ontology (PROV)
 ==========================
 
-Table of Contents
------------------
-
-.. contents::
-   :depth: 1
-   :local:
 
 ---------------------------
 Graph - Provenance Ontology

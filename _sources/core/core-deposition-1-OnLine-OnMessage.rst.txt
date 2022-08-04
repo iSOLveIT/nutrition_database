@@ -6,14 +6,6 @@ OnLine and OnMessage Deposition
 ===============================
 
 
-
-Table of Contents
------------------
-
-.. contents::
-   :depth: 3
-   :local:
-
 -------------------
 Deposition Workflow
 -------------------
