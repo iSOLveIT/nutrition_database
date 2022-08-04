@@ -7,7 +7,7 @@ Organic Acids
 
 Intro text goes here
 
-.. figure:: 4_k_Organic_acids.png
+.. figure:: /_static/4_k_Organic_acids.png
    :align: center
    
    This is the caption for the figure

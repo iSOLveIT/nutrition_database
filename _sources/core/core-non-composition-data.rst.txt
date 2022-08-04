@@ -5,7 +5,7 @@
 Non-composition Data
 ====================
 
-.. _return-to-top-02-core-non-composition:
+
 
 This section addresses:
 
@@ -164,6 +164,6 @@ Taxonomic Information
 
 Replay taxonomic data in several production databases.
 
-:ref:`Return to top <return-to-top-02-core-non-composition>`
+
 
 .. |_| unicode:: 0x80

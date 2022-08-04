@@ -18,7 +18,7 @@ Table of Contents
 Example
 -------
 
-.. figure:: detail-mathematics-4-simple-summation-1-MISSING_.png
+.. figure:: /_static/detail-mathematics-4-simple-summation-1-MISSING_.png
 
 ------
 Legend

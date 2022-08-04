@@ -11,6 +11,6 @@ ChEMATIC
 Dietary Data Reference
    `Dietary Data Reference: additives in food <http://72.167.253.87/cgi-bin/flamenco.cgi/_Dietary_Data_Reference_-_14-01-16_/Flamenco?q=facet_S:660&group=facet_S>`_
 
-.. image:: detail-chemicals-2-food-additives-1-web-1-dietary-data-reference-food-additives_.png
+.. image:: /_static/detail-chemicals-2-food-additives-1-web-1-dietary-data-reference-food-additives_.png
 
    

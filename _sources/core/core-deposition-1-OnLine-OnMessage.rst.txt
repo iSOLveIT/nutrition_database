@@ -5,7 +5,7 @@
 OnLine and OnMessage Deposition
 ===============================
 
-.. _return-to-top-02-core-deposition-1-OnLine-OnMessage:
+
 
 Table of Contents
 -----------------
@@ -32,7 +32,7 @@ Ontomatica :ref:`graphs <terms-Graph>` |_| (representing things or events, and c
 
 Data then is stored on :ref:`MySQL <terms-MySQL>` |_| and :ref:`REST <terms-REST>` servers.
 
-.. figure:: core-deposition-1-OnLine-OnMessage-1-process_.png
+.. figure:: /_static/core-deposition-1-OnLine-OnMessage-1-process_.png
    :align: center
 
 -----------------------------------------
@@ -106,10 +106,10 @@ Integration of GS1, GTIN and Vocal Data
 
 OnMessage enables construction of a comprehensive food record that includes bar code information (GTIN) together with GS1 data (Brick codes), Vocal terms and related data.
 
-.. figure:: core-deposition-1-OnLine-OnMessage-2-GTIN-Vocal_.png
+.. figure:: /_static/core-deposition-1-OnLine-OnMessage-2-GTIN-Vocal_.png
    :align: center
 
-:ref:`Return to top <return-to-top-02-core-deposition-1-OnLine-OnMessage>`
+
 
 .. |_| unicode:: 0x80
 

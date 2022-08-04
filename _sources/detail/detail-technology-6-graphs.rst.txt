@@ -18,13 +18,13 @@ Table of Contents
 Graph - Tryptophan
 ------------------
 
-.. figure:: detail-technology-6-graphs-1-tryptophan_.png
+.. figure:: /_static/detail-technology-6-graphs-1-tryptophan_.png
 
 --------------------------
 Graph - Omega-3 Fatty Acid
 --------------------------
 
-.. figure:: detail-technology-6-graphs-2-omega-3_.png
+.. figure:: /_static/detail-technology-6-graphs-2-omega-3_.png
 
 -------------
 Graph - Pizza

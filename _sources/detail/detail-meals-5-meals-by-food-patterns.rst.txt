@@ -11,5 +11,5 @@ Intro text here
 USDA FNDDS Food Patterns
 ------------------------
 
-.. image:: detail-meals-5-meals-by-food-patterns-1-MISSING_.png
+.. image:: /_static/detail-meals-5-meals-by-food-patterns-1-MISSING_.png
 

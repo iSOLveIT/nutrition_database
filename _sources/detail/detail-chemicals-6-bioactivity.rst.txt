@@ -18,16 +18,16 @@ Table of Contents
 Hydrolase Activity
 ------------------
 
-.. image:: detail-chemicals-6-bioactivity-1-chematic_.png
+.. image:: /_static/detail-chemicals-6-bioactivity-1-chematic_.png
 
 --------------
 Lyase Activity
 --------------
 
-.. image:: detail-chemicals-6-bioactivity-2-chefs-bioactivity-lyases_.png
+.. image:: /_static/detail-chemicals-6-bioactivity-2-chefs-bioactivity-lyases_.png
 
 --------------------
 Transferase Activity
 --------------------
 
-.. image:: detail-chemicals-6-bioactivity-3-chefs-bioactivity-transferase_.png
+.. image:: /_static/detail-chemicals-6-bioactivity-3-chefs-bioactivity-transferase_.png

@@ -18,23 +18,23 @@ Table of Contents
 Meat Groups
 -----------
 
-.. image:: detail-commodities-2-livestock-1-meat-groups_.png
+.. image:: /_static/detail-commodities-2-livestock-1-meat-groups_.png
 
 ----------------
 Mammals Taxonomy
 ----------------
 
-.. image:: detail-commodities-2-livestock-2-meat-groups-bos-taurus_.png
+.. image:: /_static/detail-commodities-2-livestock-2-meat-groups-bos-taurus_.png
 
 ------------
 Cuts of Meat
 ------------
 
-.. image:: detail-commodities-2-livestock-3-meat-identity-us-un-gs1-meattrack_.png
+.. image:: /_static/detail-commodities-2-livestock-3-meat-identity-us-un-gs1-meattrack_.png
 
 -------
 Poultry
 -------
 
-.. image:: detail-commodities-2-livestock-4-poultry_.png
+.. image:: /_static/detail-commodities-2-livestock-4-poultry_.png
 

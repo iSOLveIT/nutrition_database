@@ -18,23 +18,23 @@ Table of Contents
 UN FAO CODEX
 ------------
 
-.. image:: detail-commodities-0-classification-1-codex_.png
+.. image:: /_static/detail-commodities-0-classification-1-codex_.png
 
 ---
 GS1
 ---
 
-.. image:: detail-commodities-0-classification-2-gs1_.png
+.. image:: /_static/detail-commodities-0-classification-2-gs1_.png
 
 ---------------------------------------
 US Code of Federal Regulations (US CFR)
 ---------------------------------------
 
-.. image:: detail-commodities-0-classification-3-us-cfr_.png
+.. image:: /_static/detail-commodities-0-classification-3-us-cfr_.png
 
 ----
 USDA
 ----
 
-.. image:: detail-commodities-0-classification-4-usda_.png
+.. image:: /_static/detail-commodities-0-classification-4-usda_.png
 

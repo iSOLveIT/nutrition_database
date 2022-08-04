@@ -52,41 +52,41 @@ In general, for food composition purposes it is recommended to use a metric unit
 
 Some denominators should be avoided, for example 'individual amino acid (AA) as |gram| |per| 100 |gram|' because it is not obvious if they refer to, for example, '|per| 100 |gram| edible portion' or '|per| 100 |gram| protein' or to '|per| 100 |gram| dry matter'. To avoid ambiguity, it is therefore recommended to always provide a precise description of the denominator. Examples are:
 
-   * |per| 100 |gram| edible portion on fresh weight basis (preferred expression in food composition)
+* |per| 100 |gram| edible portion on fresh weight basis (preferred expression in food composition)
 
-   * |per| 100 |gram| dry matter of edible food
+* |per| 100 |gram| dry matter of edible food
 
-   * |per| |gram| total protein of edible portion on fresh weight basis
+* |per| |gram| total protein of edible portion on fresh weight basis
 
-   * |per| |gram| total protein of edible portion on dry matter basis
+* |per| |gram| total protein of edible portion on dry matter basis
 
-   * |per| |gram| total lipid of edible portion on dry matter basis
+* |per| |gram| total lipid of edible portion on dry matter basis
 
-   * |per| |gram| total lipid of edible food on fresh weight basis
+* |per| |gram| total lipid of edible food on fresh weight basis
 
-   * |per| 100 |gram| total food (edible and inedible parts of the food) on fresh weight basis
+* |per| 100 |gram| total food (edible and inedible parts of the food) on fresh weight basis
 
-   * |per| 100 |gram| total food (edible and inedible parts of the food) on dry matter basis
+* |per| 100 |gram| total food (edible and inedible parts of the food) on dry matter basis
 
-   * |per| |gram| total lipid of total food (edible and inedible food) on fresh weight basis
+* |per| |gram| total lipid of total food (edible and inedible food) on fresh weight basis
 
 In food safety '|per| |kilog| food' is the preferred expression in compositional data, sometimes without specifically indicating if total food or edible portion is meant, or if it is on fresh or dry matter basis.
 
 If data are not expressed as '|per| 100 |gram| edible portion on fresh weight basis (EP)', additional data should be provided so that values can be calculated as '|per| 100 |gram| EP':
 
-   * An edible coefficient needs to be reported if data are expressed as '|per| total food'.
+* An edible coefficient needs to be reported if data are expressed as '|per| total food'.
 
-   * Water (or dry matter) content in 100 |gram| EP needs to be reported if data are expressed as '|per| |percent| or |gram| dry matter of the edible portion'.
+* Water (or dry matter) content in 100 |gram| EP needs to be reported if data are expressed as '|per| |percent| or |gram| dry matter of the edible portion'.
 
-   * Lipid content in 100 |gram| fresh food needs to be reported if data are expressed as '|per| |percent| or |gram| fat/total lipid of the edible portion', or as '|per| total fatty acids (FA) of the edible portion'.
+* Lipid content in 100 |gram| fresh food needs to be reported if data are expressed as '|per| |percent| or |gram| fat/total lipid of the edible portion', or as '|per| total fatty acids (FA) of the edible portion'.
 
-   * Protein content in 100 |gram| fresh food needs to be reported if data are expressed as '|per| |percent| or |gram| protein of the edible portion'.
+* Protein content in 100 |gram| fresh food needs to be reported if data are expressed as '|per| |percent| or |gram| protein of the edible portion'.
 
-   * Density needs to be reported if data are expressed |per| volume, e.g. as '|per| 100 |millil|' or '|per| |liter|'.
+* Density needs to be reported if data are expressed |per| volume, e.g. as '|per| 100 |millil|' or '|per| |liter|'.
 
 The use of some units should be avoided such as ppm (parts |per| million), ppb (parts |per| billion), |percent| and International Units (IU); it is better to use true metric units where the unit and the denominator are well defined such as |millig|/|kilog| or |microg|/|gram| (while well defining the denominators - see above).
 
-In the following tables, formulas and examples are given of how to convert different units and denominators to each other. If appropriate, INFOODS tagnames are used for component identification (see :ref:`INFOODS`).
+In the following tables, formulas and examples are given of how to convert different units and denominators to each other. If appropriate, INFOODS tagnames are used for component identification (see :ref:`INFOODS <terms-INFOODS>`).
 
 -----------
 Conversions

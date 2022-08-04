@@ -5,7 +5,7 @@
 Data Integration
 ================
 
-.. _return-to-top-02-core-integration:
+
 
 This section addresses:
 
@@ -75,7 +75,7 @@ Authorities
    "KEGG", "chemicals ", "Identity"
    "", "bioactive components ", "Identity"
 
-:ref:`Return to top <return-to-top-02-core-integration>`
+
 
 .. |_| unicode:: 0x80
 

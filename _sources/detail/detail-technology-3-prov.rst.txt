@@ -26,33 +26,33 @@ Summary Illustration - Provenance Ontology
 
 An overview of PROV :cite:`6045` is depicted in this illustration:
 
-.. figure:: detail-technology-3-prov-1-key-concept_.png
+.. figure:: /_static/detail-technology-3-prov-1-key-concept_.png
 
 -------------------------------------------
 Detailed Illustration - Provenance Ontology
 -------------------------------------------
 
-.. figure:: detail-technology-3-prov-2-detail_.png
+.. figure:: /_static/detail-technology-3-prov-2-detail_.png
    :align: center
 
 ------------------------------
 Illustration - Provenance Plan
 ------------------------------
 
-.. figure:: detail-technology-3-prov-3-plan_.png
+.. figure:: /_static/detail-technology-3-prov-3-plan_.png
    :align: center
 
 -------------------------------
 Illustration - Provenance Roles
 -------------------------------
 
-.. figure:: detail-technology-3-prov-4-role_.png
+.. figure:: /_static/detail-technology-3-prov-4-role_.png
    :align: center
 
 ------------------------------
 Illustration - Provenance Time
 ------------------------------
 
-.. figure:: detail-technology-3-prov-5-time_.png
+.. figure:: /_static/detail-technology-3-prov-5-time_.png
    :align: center
 

@@ -8,7 +8,7 @@ Nitrogen
 Part 1
 ^^^^^^
 
-.. figure:: 4_i_Nitrogen_part_1.png
+.. figure:: /_static/4_i_Nitrogen_part_1.png
    :align: center
    
    This is the caption for the figure
@@ -16,7 +16,7 @@ Part 1
 Part 2
 ^^^^^^
 
-.. figure:: 4_j_Nitrogen_part_2.png
+.. figure:: /_static/4_j_Nitrogen_part_2.png
    :align: center
    
    This is the caption for the figure

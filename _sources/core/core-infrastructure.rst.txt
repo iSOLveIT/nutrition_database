@@ -5,7 +5,7 @@
 Infrastructure and Reporting
 ============================
 
-.. _return-to-top-02-core-infrastructure:
+
 
 This section addresses:
 
@@ -34,7 +34,7 @@ Infrastructure
 
 Infrastructure is designed for high performance and automated :ref:`fail-over <terms-Failover>` |_| if a core component (e.g. memory, storage) fails.
 
-.. image:: core-infrastructure_.png
+.. image:: /_static/core-infrastructure_.png
 
 ---------
 Reporting
@@ -62,7 +62,7 @@ Example from access to Nobel Prize application.
 
 - query terms: (see example below, beginning "select name from gender where parent= ...")
 
-::
+.. code-block::
 
    7394  0.25 secs            /cgi-bin/flamenco.cgi/_Nobel_Prize_Winners_-_14-01-16_/Flamenco
    
@@ -135,7 +135,7 @@ Service Provider
 
 Ontomatica plans to use `Cybercon <http://www.cybercon.com/>`_ as the hosting service provider.
 
-:ref:`Return to top <return-to-top-02-core-infrastructure>`
+
 
 .. |_| unicode:: 0x80
 

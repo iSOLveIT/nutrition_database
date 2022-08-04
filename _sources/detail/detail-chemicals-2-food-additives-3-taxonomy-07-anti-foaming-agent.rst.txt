@@ -5,6 +5,6 @@
 Anti-Foaming Agents
 ===================
 
-.. figure:: detail-chemicals-2-food-additives-3-taxonomy-07-anti-foaming-agent_.png
+.. figure:: /_static/detail-chemicals-2-food-additives-3-taxonomy-07-anti-foaming-agent_.png
    :align: center
 

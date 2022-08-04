@@ -5,6 +5,6 @@
 Propellants
 ===========
 
-.. figure:: detail-chemicals-2-food-additives-3-taxonomy-25-propellant_.png
+.. figure:: /_static/detail-chemicals-2-food-additives-3-taxonomy-25-propellant_.png
    :align: center
 

@@ -11,7 +11,7 @@ Intro text here
 User Interface
 --------------
 
-.. figure:: detail-technology-7-search-1-MISSING_.png
+.. figure:: /_static/detail-technology-7-search-1-MISSING_.png
 
 ---------------
 Sample Searches

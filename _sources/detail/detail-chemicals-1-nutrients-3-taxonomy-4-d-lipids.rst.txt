@@ -8,7 +8,7 @@ Lipids
 Part 1
 ^^^^^^
 
-.. figure:: 4_d_Lipids_part_1.png
+.. figure:: /_static/4_d_Lipids_part_1.png
    :align: center
    
    This is the caption for the figure
@@ -16,7 +16,7 @@ Part 1
 Part 2
 ^^^^^^
 
-.. figure:: 4_e_Lipids_part_2.png
+.. figure:: /_static/4_e_Lipids_part_2.png
    :align: center
    
    This is the caption for the figure
@@ -24,7 +24,7 @@ Part 2
 Part 3
 ^^^^^^
 
-.. figure:: 4_f_Lipids_part_3.png
+.. figure:: /_static/4_f_Lipids_part_3.png
    :align: center
    
    This is the caption for the figure
@@ -32,7 +32,7 @@ Part 3
 Part 4
 ^^^^^^
 
-.. figure:: 4_g_Lipids_part_4.png
+.. figure:: /_static/4_g_Lipids_part_4.png
    :align: center
    
    This is the caption for the figure
@@ -40,7 +40,7 @@ Part 4
 Part 5
 ^^^^^^
 
-.. figure:: 4_h_Lipids_part_5.png
+.. figure:: /_static/4_h_Lipids_part_5.png
    :align: center
    
    This is the caption for the figure
