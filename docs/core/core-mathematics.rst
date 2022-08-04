@@ -5,7 +5,7 @@
 Nutrition Mathematics
 =====================
 
-.. _return-to-top-02-core-mathematics:
+
 
 This section addresses:
 
@@ -49,10 +49,10 @@ Examples of :ref:`USDA mathematics <terms-USDA-Mathematics>` |_| processed by :r
 Sample workflow
 ---------------
 
-.. figure:: core-mathematics-USDA-processes_.png
+.. figure:: /_static/core-mathematics-USDA-processes_.png
    :align: center
 
-:ref:`Return to top <return-to-top-02-core-mathematics>`
+
 
 .. |_| unicode:: 0x80
 

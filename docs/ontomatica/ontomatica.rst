@@ -1,5 +1,5 @@
 
-.. _$_15-ontomatica:
+.. _ontomatica:
 
 ==========
 Ontomatica

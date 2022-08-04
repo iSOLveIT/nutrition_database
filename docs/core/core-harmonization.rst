@@ -5,7 +5,7 @@
 Information Harmonization
 =========================
 
-.. _return-to-top-02-core-harmonization:
+
 
 This section addresses:
 
@@ -122,7 +122,7 @@ Example: Variety of Frequently Used Terms
    "Fish products", "agrovoc:c_2930", "nalt:9444", "dbpedia:Fish_products"
    "Milk protein", "agrovoc:c_4831", "nalt:9453", "dbpedia:Milk#Physical_and_chemical_structure"
 
-:ref:`Return to top <return-to-top-02-core-harmonization>`
+
 
 .. |_| unicode:: 0x80
 

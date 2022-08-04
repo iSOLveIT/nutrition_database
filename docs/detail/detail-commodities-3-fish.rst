@@ -18,7 +18,7 @@ Table of Contents
 Fish Taxonomy
 -------------
 
-.. image:: detail-commodities-3-fish-1-aquatic-groups_.png
+.. image:: /_static/detail-commodities-3-fish-1-aquatic-groups_.png
 
 ------------------
 Fish and Fisheries

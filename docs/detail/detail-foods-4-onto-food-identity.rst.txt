@@ -5,4 +5,4 @@
 Food Identity
 =============
 
-.. image:: detail-foods-4-onto-food-identity-1-wheat-MISSING_.png
+.. image:: /_static/detail-foods-4-onto-food-identity-1-wheat-MISSING_.png

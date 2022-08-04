@@ -5,7 +5,7 @@
 Words Used in Proposal
 ======================
 
-.. _return-to-top-01-convention-words:
+
 
 -------------------------
 Words for specifying data
@@ -149,5 +149,5 @@ Syntax (continuing to add precision to the word "Syntax" previously used above, 
 Grammar (continuing to add precision to the word "Grammar" previously used above, but now specific to Ontology)
    Set of statements in the logical form: :class:`subject` :class:`predicate` :class:`object` where :class:`subject` and :class:`object` are Facet Terms and :class:`predicate` are Predicate Terms.
 
-:ref:`Return to top <return-to-top-01-convention-words>`
+
 

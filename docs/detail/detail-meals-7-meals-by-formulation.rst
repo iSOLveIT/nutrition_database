@@ -11,5 +11,5 @@ Intro text here.
 Formulation
 -----------
 
-.. image:: detail-meals-7-meals-by-formulation-1-MISSING_.png
+.. image:: /_static/detail-meals-7-meals-by-formulation-1-MISSING_.png
 

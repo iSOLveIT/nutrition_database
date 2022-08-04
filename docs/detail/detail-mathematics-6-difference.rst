@@ -18,5 +18,5 @@ Table of Contents
 Example
 -------
 
-.. figure:: detail-mathematics-6-difference-1-MISSING_.png
+.. figure:: /_static/detail-mathematics-6-difference-1-MISSING_.png
 

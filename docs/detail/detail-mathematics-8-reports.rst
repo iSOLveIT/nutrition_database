@@ -18,7 +18,7 @@ Table of Contents
 Example
 -------
 
-.. figure:: detail-mathematics-8-reports-1-MISSING_.png
+.. figure:: /_static/detail-mathematics-8-reports-1-MISSING_.png
 
 
 For a food, energy by component

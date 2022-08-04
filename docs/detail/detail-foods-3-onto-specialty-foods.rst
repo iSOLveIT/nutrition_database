@@ -9,4 +9,4 @@ Specialty Foods
 Extra Virgin Olive Oil
 ----------------------
 
-.. image:: detail-foods-3-onto-specialty-foods-1-olive-oil_.png
+.. image:: /_static/detail-foods-3-onto-specialty-foods-1-olive-oil_.png

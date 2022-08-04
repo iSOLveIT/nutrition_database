@@ -119,7 +119,7 @@ Additional Relationships
 .. _N: core-integration.html
 
 .. |G| replace:: Glossary of Terms
-.. _G: $_07-glossary.html
+.. _G: glossary.html
 
 
 .. |_| unicode:: 0x80

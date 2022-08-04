@@ -26,7 +26,7 @@ Metadata, Results and Data are represented as Graphs and stored in appropriate G
 
 Work-flow processes are defined in Taverna; work-flow meta data is associated with appropriate Graph application.
 
-.. figure:: detail-repository-1-structure-1-research-objects_.png
+.. figure:: /_static/detail-repository-1-structure-1-research-objects_.png
 
 ----------------------------
 Repository Information Model
@@ -34,6 +34,6 @@ Repository Information Model
 
 Discussion about Minimum Information Model ontology
 
-.. figure:: detail-repository-1-structure-2-mim_.png
+.. figure:: /_static/detail-repository-1-structure-2-mim_.png
 
 

@@ -20,7 +20,7 @@ sys.path.insert(0, CURDIR)
 # -- Project information -----------------------------------------------------
 
 project = 'USDA Nutrition Database'
-copyright = '2015, Ontomatica'
+copyright = '2022, Ontomatica'
 author = 'Ontomatica'
 
 # -- General configuration ---------------------------------------------------
@@ -81,7 +81,7 @@ pygments_style = 'sphinx'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_logo = '_static/$_01-USDA-ARS-small_.png'
+html_logo = '_static/USDA-ARS-small_.png'
 html_favicon = '_static/onto-favicon.svg'
 html_title = "Nutrition Database"
 
@@ -132,6 +132,7 @@ html_theme_options = {
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 html_css_files = ["custom.css"]
+html_js_files = ["js/custom.js"]
 
 # Options for the linkcheck builder
 # linkcheck_ignore = [
@@ -154,7 +155,7 @@ html_show_sourcelink = False
 html_show_sphinx = False
 
 # If true, "(C) Copyright Ontomatica" is shown in the HTML footer. Default is True.
-html_show_copyright = False
+html_show_copyright = True
 
 # This is the file name suffix for HTML files (e.g. ".xhtml").
 html_file_suffix = '.html'
@@ -174,8 +175,8 @@ mathjax_path = 'http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-
 
 intersphinx_cache_limit = 10  # days to keep the cached inventories
 intersphinx_mapping = {
-    'sphinx': ('http://sphinx.pocoo.org', None),
-    'python': ('http://docs.python.org/3.2', None),
+    'sphinx': ('http://www.sphinx-doc.org', None),
+    'python': ('http://docs.python.org/3.8', None),
     'matplotlib': ('http://matplotlib.sourceforge.net', None),
     'numpy': ('http://docs.scipy.org/doc/numpy', None),
 }
@@ -248,24 +249,24 @@ autodoc_default_flags = ['members']
 # -- Options for LaTeX output ---------------------------------------------------------------------------------
 
 latex_elements = {
-# The paper size ('letterpaper' or 'a4paper').
-'papersize': 'letterpaper',
+    # The paper size ('letterpaper' or 'a4paper').
+    'papersize': 'letterpaper',
 
-# The font size ('10pt', '11pt' or '12pt').
-'pointsize': '10pt',
+    # The font size ('10pt', '11pt' or '12pt').
+    'pointsize': '10pt',
 
-# Additional stuff for the LaTeX preamble.
-'preamble': '',
+    # Additional stuff for the LaTeX preamble.
+    'preamble': '',
 
-# Latex figure (float) alignment
-'figure_align': 'htbp',
+    # Latex figure (float) alignment
+    'figure_align': 'htbp',
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto, manual, or own class]).
 latex_documents = [
-                  ('index', 'sample_doc.tex', 'sample\\_doc Documentation', 'hidepy', 'manual'),
-                  ]
+    ('index', 'sample_doc.tex', 'sample\\_doc Documentation', 'hidepy', 'manual'),
+]
 
 # The name of an image file (relative to this directory) to place at the top of the title page.
 latex_logo = None
@@ -274,16 +275,16 @@ latex_logo = None
 latex_use_parts = False
 
 # If true, show page references after internal links.
-#latex_show_pagerefs = False
+# latex_show_pagerefs = False
 
 # If true, show URL addresses after external links.
-#latex_show_urls = False
+# latex_show_urls = False
 
 # Documents to append as an appendix to all manuals.
-#latex_appendices = []
+# latex_appendices = []
 
 # If false, no module index is generated.
-#latex_domain_indices = True
+# latex_domain_indices = True
 
 
 # -- Options for manual page output -----------------------------------------------------------
@@ -291,30 +292,29 @@ latex_use_parts = False
 # One entry per manual page.
 # List of tuples (source start file, name, description, authors, manual section).
 man_pages = [
-            ('index', 'sample_doc', 'sample_doc Documentation', ['hidepy'], 1)
-            ]
+    ('index', 'sample_doc', 'sample_doc Documentation', ['hidepy'], 1)
+]
 
 # If true, show URL addresses after external links.
-#man_show_urls = False
+# man_show_urls = False
 
 # -- Options for Texinfo output ---------------------------------------------------------------
 
 # Grouping the document tree into Texinfo files.
 # List of tuples (source start file, target name, title, author, dir menu entry, description, category)
 texinfo_documents = [
-                    ('index', 'sample_doc', 'sample_doc Documentation', 'hidepy',
-                    'sample_doc', 'One line description of project.', 'Miscellaneous'),
-                    ]
+    ('index', 'sample_doc', 'sample_doc Documentation', 'hidepy',
+     'sample_doc', 'One line description of project.', 'Miscellaneous'),
+]
 
 # Documents to append as an appendix to all manuals.
-#texinfo_appendices = []
+# texinfo_appendices = []
 
 # If false, no module index is generated.
-#texinfo_domain_indices = True
+# texinfo_domain_indices = True
 
 # How to display URL addresses: 'footnote', 'no', or 'inline'.
-#texinfo_show_urls = 'footnote'
+# texinfo_show_urls = 'footnote'
 
 # If true, do not generate a @detailmenu in the "Top" node's menu.
-#texinfo_no_detailmenu = False
-
+# texinfo_no_detailmenu = False

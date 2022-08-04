@@ -1,5 +1,5 @@
 
-.. _$_13-bibliography:
+.. _bibliography:
 
 ==============
 Bibliographies

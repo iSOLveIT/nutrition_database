@@ -5,7 +5,7 @@
 REST Services and Reports
 =========================
 
-.. _return-to-top-02-core-rest-prov:
+
 
 This section addresses:
 
@@ -30,7 +30,7 @@ Table of Contents
 
 :ref:`Label project <terms-Label-Project>` |_| data will be available to :ref:`investigators <terms-Investigator>` |_| via :ref:`REST <terms-REST>` |_| (Representational State Transfer) services. REST is a simple stateless architecture that runs over HTTP. REST service reads a designated Web page that contains an XML file in RDF format. XML/RDF file describes and includes label project data. Data is returned to investigator in :ref:`JSON-LD <terms-JSON-LD>` |_| format.
 
-.. figure:: core-rest-prov_.png
+.. figure:: /_static/core-rest-prov_.png
    :align: center
 
 -----------------------------
@@ -192,7 +192,7 @@ Quality Control using Provenance Ontology and REST
 
 Several :ref:`conversation <terms-Conversation>` |_| types will be supported.
 
-For example, Ontomatica :ref:`imports <terms-Import-Ontology>` |_| the Provenance Ontology :class:`[prov]`.
+For example, Ontomatica :ref:`imports <terms-ontology>` |_| the Provenance Ontology :class:`[prov]`.
 
 The following illustrates a :ref:`curator <terms-Curator>` |_| using :class:`[prov]`:
 
@@ -208,6 +208,6 @@ Curator uses a REST conversation to implement the example above.
    - `ChemAxon concepts <http://www.chemaxon.com/products/jchem-web-services/>`_
    - `ChemAxon application programming interface (APIs) <https://restdemo.chemaxon.com/apidocs/>`_
 
-:ref:`Return to top <return-to-top-02-core-rest-prov>`
+
 
 .. |_| unicode:: 0x80

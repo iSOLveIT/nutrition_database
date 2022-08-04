@@ -1,5 +1,5 @@
 
-.. _$_04-fda:
+.. _fda:
 
 ======================================
 Features - FDA Labeling Specifications

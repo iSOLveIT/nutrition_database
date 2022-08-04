@@ -5,7 +5,7 @@
 USDA Stakeholder Requirements
 =============================
 
-.. _return-to-top-02-core-stakeholders:
+
 
 This section addresses:
 
@@ -238,7 +238,7 @@ Ontomatica Coverage - NFNAP Requirements
 
 Ontomatica proposal enables #1, #2 and #4, and specifically with respect to **Special Interest Database** requirements.
 
-:ref:`Return to top <return-to-top-02-core-stakeholders>`
+
 
 .. |_| unicode:: 0x80
 

@@ -5,7 +5,7 @@
 Deployment Services
 ===================
 
-.. _return-to-top-02-core-deployment:
+
 
 This section addresses:
 
@@ -27,7 +27,7 @@ OnTarget
 - to :ref:`quality assurance<terms-Quality-Assurance>` |_| (5)
 - to :ref:`production<terms-Production>` |_| (6 and 7).
 
-.. image:: core-deployment_.png
+.. image:: /_static/core-deployment_.png
    :align: center
 
 -----
@@ -48,7 +48,7 @@ make++
 
 Description (4)
 
-::
+.. code-block:: python
 
    #!/usr/bin/env python
    
@@ -150,9 +150,9 @@ Ontomatica's OntoLogics services are not part of Proposal.
 Future Features
 ---------------
 
-Presented `here <$_06-future.html>`_
+Presented `here <future.html>`_
 
-:ref:`Return to top <return-to-top-02-core-deployment>`
+
 
 .. |_| unicode:: 0x80
 

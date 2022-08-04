@@ -4,6 +4,14 @@
   /*--md-admonition-icon--pitfall: url('./media/warn.svg');*/
 }
 
+[data-md-color-scheme=default] {
+    --img-filter: none;
+}
+
+[data-md-color-scheme=slate] {
+    --img-filter: brightness(0) invert(1);
+}
+
 body,
 input {
     font-family: Recursive-2019, NotoSerif;
@@ -132,4 +140,8 @@ html .md-nav--primary .md-nav__title--site .md-nav__button {
 
 h1#linked-data-patterns {
 	display: none;
+}
+
+img.intro-image {
+    filter: var(--img-filter);
 }

@@ -1,5 +1,5 @@
 
-.. _$_04-2-fda-allergen:
+.. _fda-allergen:
 
 ================================
 FDA Food Allergen Specifications

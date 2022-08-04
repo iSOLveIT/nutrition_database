@@ -6,7 +6,7 @@ Articles - Food
 ===============
 
 .. bibliography:: reference-article-food-ref.bib
-   :cited:
+   :all:
    :style: plain
    :labelprefix: AFR
 

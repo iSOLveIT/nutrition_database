@@ -1,5 +1,5 @@
 
-.. _$_03-detail:
+.. _detail:
 
 ===========================
 Features - Core with Detail

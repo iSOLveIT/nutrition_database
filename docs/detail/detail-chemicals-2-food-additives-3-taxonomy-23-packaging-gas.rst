@@ -5,6 +5,6 @@
 Packaging Gas
 =============
 
-.. figure:: detail-chemicals-2-food-additives-3-taxonomy-23-packaging-gas_.png
+.. figure:: /_static/detail-chemicals-2-food-additives-3-taxonomy-23-packaging-gas_.png
    :align: center
 

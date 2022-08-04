@@ -5,7 +5,7 @@
 User Friendly Designs
 =====================
 
-.. _return-to-top-02-core-user-friendly:
+
 
 This section addresses:
 
@@ -26,14 +26,14 @@ Ontomatica Navigator
 
 Ontomatica's :ref:`Navigator <terms-Navigator>` |_| architecture is similar to other modern navigation systems. The Volkswagen `"Find a Match" application <http://www.vw.com/find-match/engine/>`_ is one example.
 
-.. figure:: core-user-friendly-1-volkswagen_.png
+.. figure:: /_static/core-user-friendly-1-volkswagen_.png
    :align: center
 
 The Volkswagen application navigates this `ontology <http://ontorule-project.eu/parrot/parrot?documentUri=http://www.volkswagen.co.uk/vocabularies/vvo/ns.owl>`_. See also: :cite:`5043`  :cite:`5044` :cite:`5045`.
 
 Ontomatica's Navigator, traversing the :ref:`graphs <terms-Graph>` |_| implemented in the `homeopathic application <http://72.167.253.87/cgi-bin/flamenco.cgi/_Homeopathic_Remedies_-_14-01-16_/Flamenco?q=arthritis&index=0>`_, operates in the same way as the Volkswagen navigator, but use different data.
 
-.. figure:: core-user-friendly-2-homeopathic_.png
+.. figure:: /_static/core-user-friendly-2-homeopathic_.png
    :align: center
 
 --------------------------------------
@@ -54,7 +54,7 @@ Navigator and USDA Label Project
 
 Ontomatica Nobel Prize application illustrates :ref:`application services <terms-Application-Service>` |_| navigating :ref:`data services <terms-Data-Service>` |_| that manage content familiar to many. For example, here are `U.S. Nobel Laureates in Chemistry <http://72.167.253.87/cgi-bin/flamenco.cgi/_Nobel_Prize_Winners_-_14-01-16_/Flamenco?q=country:50/prize:1&group=country>`_.
 
-.. figure:: core-user-friendly-3-nobel-prize_.png
+.. figure:: /_static/core-user-friendly-3-nobel-prize_.png
    :align: center
    
    U.S. winners of the Nobel Prize for Chemistry
@@ -71,7 +71,7 @@ Some modern tools enable a user to compose a query by selecting two or more sing
 
 Only Navigator enables a user to compose queries by selecting terms from multiple hierarchies of terms.
 
-:ref:`Return to top <return-to-top-02-core-user-friendly>`
+
 
 .. |_| unicode:: 0x80
 

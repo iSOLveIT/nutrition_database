@@ -5,7 +5,7 @@
 Generic Verbs and Nouns
 =======================
 
-.. _return-to-top-02-core-relationships:
+
 
 This section addresses:
 
@@ -98,13 +98,13 @@ Additional Relationships
    "X :class:`hasPrice` MoneyAmount", ""
    "Substance :class:`measuredIn` Unit of measurement", ""
 
-:ref:`Return to top <return-to-top-02-core-relationships>`
+
 
 .. |N| replace:: Data Integration
 .. _N: core-integration.html
 
 .. |G| replace:: Glossary of Terms
-.. _G: $_07-glossary.html
+.. _G: glossary.html
 
 .. |_| unicode:: 0x80
 

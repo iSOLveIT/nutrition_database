@@ -34,7 +34,7 @@ Ontology driven process that classifies a food according to precise ontology ter
 Concept
 -------
 
-.. figure:: core-deposition-3-bottom-up_.png
+.. figure:: /_static/core-deposition-3-bottom-up_.png
    :align: center
 
 -----------

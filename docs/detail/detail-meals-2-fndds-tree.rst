@@ -11,5 +11,5 @@ Intro text here
 USDA FNDDS Meals Group
 ----------------------
 
-.. image:: detail-meals-2-fndds-tree-1-MISSING_.png
+.. image:: /_static/detail-meals-2-fndds-tree-1-MISSING_.png
 

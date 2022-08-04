@@ -11,5 +11,5 @@ Intro text here.
 USDA FNDDS Meal Groups - Alphabetical
 -------------------------------------
 
-.. image:: detail-meals-6-meals-by-meal-group-1-food-descriptions_.png
+.. image:: /_static/detail-meals-6-meals-by-meal-group-1-food-descriptions_.png
 

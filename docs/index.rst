@@ -1,9 +1,10 @@
 
 .. image:: _static/USDA-ARS-large_.png
+   :class: intro_image
 
 ********************************
 
-.. _return-to-top-Nutrition-Database-Modernization:
+
 
 Nutrition Database Modernization
 ********************************
@@ -83,4 +84,4 @@ Copyright 2022 Ontomatica LLC. This work is licensed under a `Creative Commons A
    :align: left
    :alt: Creative Commons License
 
-:ref:`Return to top <return-to-top-Nutrition-Database-Modernization>`
+

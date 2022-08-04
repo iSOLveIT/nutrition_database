@@ -7,7 +7,7 @@ Minerals
 
 Intro text goes here
 
-.. figure:: 4_n_Minerals.png
+.. figure:: /_static/4_n_Minerals.png
    :align: center
    
    This is the caption for the figure

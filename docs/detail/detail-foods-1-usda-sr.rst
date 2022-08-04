@@ -18,17 +18,17 @@ Table of Contents
 Baby food
 ---------
 
-.. image:: detail-foods-1-usda-sr-1-baby-food-fatty-acid_.png
+.. image:: /_static/detail-foods-1-usda-sr-1-baby-food-fatty-acid_.png
 
 ---------------------------------------
 Two All Beef Patties, Special Sauce ...
 ---------------------------------------
 
-.. image:: detail-foods-1-usda-sr-2-two-all-beef-patties_.png
+.. image:: /_static/detail-foods-1-usda-sr-2-two-all-beef-patties_.png
 
 -----------------------------------
 Omega 3 Fatty Acids from Vegetables
 -----------------------------------
 
-.. image:: detail-foods-1-usda-sr-3-vegetables-omega-3_.png
+.. image:: /_static/detail-foods-1-usda-sr-3-vegetables-omega-3_.png
 

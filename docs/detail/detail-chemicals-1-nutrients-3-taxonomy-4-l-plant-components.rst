@@ -8,7 +8,7 @@ Plant Components
 Taxonomy
 ^^^^^^^^
 
-.. figure:: 4_m_Plant_components_part_2.png
+.. figure:: /_static/4_m_Plant_components_part_2.png
    :align: center
    
 Specific entries from ChEFS and ChEMATIC

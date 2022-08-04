@@ -5,7 +5,7 @@
 OnLine Top Down Deposition
 ==========================
 
-.. _return-to-top-02-core-deposition-2-top-down:
+
 
 Table of Contents
 -----------------
@@ -27,7 +27,7 @@ One ontology used by Ontomatica is `Simple Knowledge Object Sharing <http://www.
 - Initiate :ref:`conversation <terms-Conversation>` by identifying an exact match :class:`skos:exactMatch` or close match :class:`skos:closeMatch` for :ref:`deposition <terms-Deposition>`.
 
 
-.. figure:: core-deposition-2-top-down_.png
+.. figure:: /_static/core-deposition-2-top-down_.png
    :align: center
 
 ----------------------------
@@ -126,7 +126,7 @@ Explanation.
    "Water, Distilled", "A0112 B1217 C0005 E0123 H0270"
    "Whole Wheat Bread, Loaf", "A0178 B1312 C0133 E0146 H0256"
 
-:ref:`Return to top <return-to-top-02-core-deposition-2-top-down>`
+
 
 .. |_| unicode:: 0x80
 
